@@ -1,15 +1,20 @@
 # buildmavenprojectsbat
 
-# Nombre del Proyect
+# Nombre del Proyecto
+
 buildmavenprojectbat
+Archivo de Secuencia de comandos del Sistema .bat
 
 ## Pre-requisitos
 
-Sistema Operativo Windows
+Sistema Operativo Windows.
 
 ## Descripción
 
-Archivo de Secuencia de comandos del Sistema .bat
+```
+
 Crea un proyecto Java Maven Genérico:
   Arquitectura Hexagonal
+  
+```
 	
