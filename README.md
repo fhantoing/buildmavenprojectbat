@@ -18,8 +18,9 @@ Crea un proyecto Java Maven Genérico:
 ```
 
 ## Despliegue
+
 ```
-$ buildmavenprojectsbat <projectName> 
+$ BuildMavenProject.bat <projectName> 
 ```
 
 	
