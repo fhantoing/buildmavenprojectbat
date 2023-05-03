@@ -1,6 +1,6 @@
-# buildmavenprojectsbat
+# ComputerX - Experiencias de Computadora
 
-# Nombre del Proyecto
+## Nombre del Proyecto
 
 buildmavenprojectbat
 
@@ -18,6 +18,8 @@ Crea un proyecto Java Maven Genérico:
 ```
 
 ## Despliegue
+
+Ejecutar desde Consola
 
 ```
 $ BuildMavenProject.bat <projectName> 
